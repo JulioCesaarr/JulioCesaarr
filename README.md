@@ -1,7 +1,7 @@
 ### Olá, Eu sou Júlio! muito prazer😄
 
-- 🌱 estudando C#
-- 😄 Pronouns: Ele/dele
+- 🌱 Estudando Programação
+- Em busca de uma vaga na área da programação back-end
 - ⚡ Apaixonado em estudar!
 <div align="center">
   <a href="https://github.com/JulioCesaarr">
@@ -11,6 +11,12 @@
   <div style="display: inline_block"><br>
  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+ <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+ <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+ <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
  </div>
   
   ##
