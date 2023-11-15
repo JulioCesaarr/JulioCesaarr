@@ -1,7 +1,7 @@
 ### Olá, Eu sou Júlio! muito prazer😄
 
 - **Nome**: Júlio César Brito Dos Santos 👦
-- **Idade**: 16 anos 🎈🎉
+- **Idade**: 17 anos 🎈🎉
 - **Área**: Desenvolvedor De SoftWare
 - **Onde**: Santos/SP
 - **Objetivos**: Vaga De Junior ou Estagiario
